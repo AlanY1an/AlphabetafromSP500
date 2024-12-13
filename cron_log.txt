@@ -1,0 +1,13 @@
+Loading user data...
+User Returns: [0.005, -0.002, 0.01, -0.003, 0.007]
+
+Fetching SP500 data...
+SP500 Returns: [0.0024954538421815275, -0.006144213927296471, -0.002963883313944371, 0.008165786048233592, -0.005414022527810203]
+
+Calculating Beta...
+Beta: -0.371409019696777
+
+Calculating Alpha...
+Alpha: 0.0028738089211617413
+Successfully pushed alpha: 0.0028738089211617413 and beta: -0.371409019696777 to Firebase!
+Test upload completed.
