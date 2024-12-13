@@ -11,9 +11,6 @@ def init_firebase():
     return firestore.client()
 
 def push_to_firebase(db, alpha, beta):
-    """
-    Push alpha and beta values to Firestore.
-    """
     db.collection('performance_metrics').add({
         'alpha': alpha,
         'beta': beta,
